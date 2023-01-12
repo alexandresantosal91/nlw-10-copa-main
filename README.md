@@ -18,7 +18,7 @@ Evento online e gratuito de programação promovido pela <a href="https://www.ro
 <br>
 
 <p align="center">
-  <img alt="Calendário da Copa" src="https://github.com/AlexandreSantosAL91/nlw-10-copa/blob/main/img/layout-capa-2022.jpg?raw=true">
+  <img alt="Calendário da Copa" src="https://github.com/alexandresantosal91/nlw-10-copa-main/blob/main/assets/layout-capa-2022.jpg">
 </p>
 
 ## 🚀 Tecnologias
