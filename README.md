@@ -11,10 +11,6 @@ Evento online e gratuito de programação promovido pela <a href="https://www.ro
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
@@ -37,9 +33,7 @@ O Calendário de Jogos da Copa é uma página para acessar a agenda de jogos, ga
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
 ## 
 Feito durante evento da Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlexandreSantosAL91/portfolio/blob/main/LICENSE)
