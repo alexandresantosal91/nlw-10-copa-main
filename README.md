@@ -8,7 +8,7 @@ Evento online e gratuito de programação promovido pela <a href="https://www.ro
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Licence">Licença</a>
+  <a href="#-licence">Licença</a>
 </p>
 
 <br>
