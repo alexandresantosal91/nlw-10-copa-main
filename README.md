@@ -7,8 +7,7 @@ Evento online e gratuito de programação promovido pela <a href="https://www.ro
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licence">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
 </p>
 
 <br>
@@ -33,7 +32,8 @@ O Calendário de Jogos da Copa é uma página para acessar a agenda de jogos, ga
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 
+## Evento
+
 Feito durante evento da Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
 
 ## Licence 
