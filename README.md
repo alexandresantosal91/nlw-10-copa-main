@@ -8,7 +8,7 @@ Evento online e gratuito de programação promovido pela <a href="https://www.ro
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="[![NPM]">Licença</a>
+  <a href="#-Licence">Licença</a>
 </p>
 
 <br>
@@ -35,5 +35,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## 
 Feito durante evento da Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+
+## Licence 
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlexandreSantosAL91/portfolio/blob/main/LICENSE)
